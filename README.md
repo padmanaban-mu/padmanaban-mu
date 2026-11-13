@@ -26,4 +26,4 @@ Most of my coding practice is in Java. I've also been working on full-stack appl
 - Understanding backend development beyond basic CRUD operations.
 - Building projects that solve practical problems.
 
-[GitHub](https://github.com/padmanaban-mu)
+[LinkedIn](https://www.linkedin.com/in/padmanaban-mu/)
