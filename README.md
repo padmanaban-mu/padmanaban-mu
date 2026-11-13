@@ -1,4 +1,4 @@
-# Padmanaban M.
+# Padmanaban M
 
 **B.E. Computer Science and Engineering | 2024–2028**
 
